@@ -2,6 +2,6 @@
 
 $a = "RITIK";
 
-$b = "Pankaj sir";
+$b = "Pankaj";
 
 echo $a." = ".$b ;
